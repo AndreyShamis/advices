@@ -1,0 +1,17 @@
+﻿
+
+
+List of fixed bugs
+
+001 - v 1.0.01 - Fixed logcat stuck problem by disabling this functionallity during check recovery apk
+002 - v 1.0.02 - Added Remove GNSS logs for all devices
+003 - v 1.2.0  - Improved ADB device info form fast output and clear  recovery to log file
+004 - v 2.3.3 - Changes in Flashing
+005 - v 2.3.5 - Added Sort for Device by Serial Number
+006 - v 3.0 - Improve threads
+007 - v 3.3 - Improve threads on exit
+008 - v 3.4 - Fix for Thread disbled to enable on start
+009 - v 3.5 - Improve Lock unlick relays
+010 - v 3.6 - Improve logs
+011 - v 4.1 - Remove directory before write
+012 - v 4.2 - Pre recovery after flash beofre installing APK 
